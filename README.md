@@ -1,1 +1,3 @@
-# algoholic
+Problem statement:
+Traditional coding education is static — video tutorials don't talk back, documentation doesn't quiz you, and there's no one to ask when you're stuck at 2am. Learners consume content passively with no feedback loop, no adaptive explanation, and no way to test understanding in context.
+We built an AI-powered interactive coding classroom that turns any programming topic into a live learning session — with multiple AI agents that teach, quiz, challenge you with real code, and answer questions in real time. Type a topic, get a full structured lesson with runnable code challenges, instant quiz grading, and two AI agents (a teacher and a peer) that discuss, explain, and respond to you like a real classroom would.
